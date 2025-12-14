@@ -1,4 +1,19 @@
-Microsoft Entra ID – Identity Governance & Access Operations (Lab 2)
+<img width="567" height="753" alt="Screenshot 2025-12-13 at 6 56 24 PM" src="https://github.com/user-attachments/assets/6134ef02-40e4-4938-8d01-6009244e6505" />
+
+
+
+
+
+
+<img width="567" height="753" alt="Screenshot 2025-12-13 at 6 56 55 PM" src="https://github.com/user-attachments/assets/db177cb8-fa99-45dc-9916-4fbec46e185a" />
+
+
+
+
+
+
+
+🔵 Microsoft Entra ID – Identity Governance & Access Operations (Lab 2)
 Ramone Eads
 
 🔵 Overview
