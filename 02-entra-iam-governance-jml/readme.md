@@ -1,27 +1,23 @@
-
-
-
 💻 Microsoft Entra ID – Identity Governance & Access Operations (Lab 2)
 
 Ramone Eads
 
 Overview
-This lab demonstrates how I translated a real Identity & Access Management (IAM) job description into a hands-on lab using Microsoft Entra ID (Free), Jira, and Lucidchart. This lab was created from a job description for an acutual IAM Governance role at a prestegious financial institution. 
-(See Screenshot above)
+This lab demonstrates how I translated a real Identity & Access Management (IAM) job description into a hands-on lab using Microsoft Entra ID (Free), Jira, and Lucidchart.
 
 The goal of this lab was not to follow a generic tutorial, but to simulate real IAM analyst responsibilities, including identity governance, Joiner / Mover / Leaver (JML) processes, RBAC enforcement, ticket-based access management, and audit-ready documentation — all within the constraints of a free tenant.
 This lab reflects how IAM teams operate in real environments where tooling, licensing, and permissions may be limited, but governance and accountability are still required. This project was built by reverse-engineering a real IAM job description into a hands-on identity governance and access operations lab.
 
 Lab Origin: Job Description–Driven Design
 This lab was intentionally created directly from a real IAM job description to simulate the day-to-day responsibilities of an IAM Analyst / Identity Governance professional.
-Instead of following a predefined lab guide, I analyzed the job description’s core responsibilities — including identity governance, Joiner/Mover/Leaver (JML) processes, RBAC model enforcement, Jira-based access management, and operational risk controls — and translated those requirements into a practical lab that could be executed within my own Microsoft Entra ID environment.
+Instead of following a predefined lab guide, I analyzed the job description’s core responsibilities including identity governance, Joiner/Mover/Leaver (JML) processes, RBAC model enforcement, Jira based access management, and operational risk controls and translated those requirements into a practical lab that could be executed within my own Microsoft Entra ID environment.
 Each phase of this lab maps back to real IAM responsibilities, ensuring the work reflects actual enterprise IAM expectations, not theoretical scenarios.
 Where tooling or licensing limitations existed (Microsoft Entra ID Free), governance intent and documentation were used to reflect how IAM teams operate in constrained or transitional environments.
 
 Tools Used
-* Microsoft Entra ID (Free) – Identity and access enforcement
-* Jira (Free) – Access request tracking and workflow management
-* Lucidchart (Free) – Identity governance and lifecycle design
+* Microsoft Entra ID (Free) Identity and access enforcement
+* Jira (Free) Access request tracking and workflow management
+* Lucidchart (Free) Identity governance and lifecycle design
 * GitHub – Portfolio documentation and evidence
 No Entra ID P1 or P2 features were used.
 
@@ -136,6 +132,6 @@ This lab demonstrates my ability to:
 * Work effectively within licensing constraints
 
 Why This Lab Matters
-IAM teams often operate in environments with limited tooling and licensing. This lab shows that I understand how IAM actually works in practice — including governance, risk management, and audit readiness — even when automation is not available.
+IAM teams often operate in environments with limited tooling and licensing. This lab shows that I understand how IAM actually works in practice including governance, risk management, and audit readiness even when automation is not available.
 
 Screenshots for the steps will be available in a separate folder. 
